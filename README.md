@@ -20,7 +20,7 @@
   <!-- Importa model-viewer -->
   <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
 
-  <!-- Visor 3D con tu archivo GLB -->
+  <!-- Visor 3D con el archivo GLB -->
   <model-viewer
     src="Red_Pencil_Art_0529080928_texture.obj.glb"
     alt="Lápiz Rojo 3D"
